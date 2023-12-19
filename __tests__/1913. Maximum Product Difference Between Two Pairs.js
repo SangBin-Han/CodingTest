@@ -1,4 +1,4 @@
-const { maxProductDifference } = require('../leetcode/1913. Maximum Product Difference Between Two Pairs');
+const { maxProductDifference } = require('../leetcode/solved/1913. Maximum Product Difference Between Two Pairs');
 const { assert } = require('chai');
 
 describe("Tests", function () {
